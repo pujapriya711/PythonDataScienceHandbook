@@ -21,6 +21,9 @@ This repository contains the entire [Python Data Science Handbook](http://shop.o
 
 ## About
 
+# Puja Priya
+
+
 The book was written and tested with Python 3.5, though other Python versions (including Python 2.7) should work in nearly all cases.
 
 The book introduces the core libraries essential for working with data in Python: particularly [IPython](http://ipython.org), [NumPy](http://numpy.org), [Pandas](http://pandas.pydata.org), [Matplotlib](http://matplotlib.org), [Scikit-Learn](http://scikit-learn.org), and related packages.
